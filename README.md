@@ -1,1 +1,1 @@
-Hello, Hexlet! How are you?
+This rep was created for learnig git
