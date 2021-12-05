@@ -1,3 +1,2 @@
-Hello
-Goodbye
-Hello again!
+YOUR HELLO WAS ENCRYPTED!
+HellO
